@@ -76,7 +76,7 @@ streamlit run app/streamlit_app.py
 
 ## 🎥 Demo Video
 
-📺 Watch here: [Google Drive Link](https://drive.google.com/...) *(Insert actual link)*
+📺 Watch here: https://drive.google.com/drive/folders/19yOHn1k9qbwGQdObGMVkAx9qQShjd8y9?usp=sharing
 
 ---
 
