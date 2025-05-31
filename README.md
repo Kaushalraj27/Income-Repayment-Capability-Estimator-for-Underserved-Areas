@@ -91,11 +91,7 @@ streamlit run app/streamlit_app.py
 
 ## 👨‍💻 Team GSV
 
-- **Kaushal Raj** – ML Pipeline & App Deployment  
-- **Nitesh Kumar Singh** – Data Engineering  
-- **Priyansh Tiwari** – Frontend (Streamlit UI)  
-- **Ashutosh Kumar** – Presentation & Documentation
-
+- **Kaushal Raj** – Solo
 ---
 
 ## 📄 License
