@@ -70,7 +70,8 @@ streamlit run app/streamlit_app.py
 
 ## 📸 Sample UI
 
-> _(Add a screenshot of your Streamlit app here with example inputs and predicted income)_
+![image](https://github.com/user-attachments/assets/97ec2210-f7a8-4679-9fd2-f2cfde466615)
+
 
 ---
 
